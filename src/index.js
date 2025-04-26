@@ -1,3 +1,4 @@
+import "./styles.css";
 // use promise syntax, then the async await syntax
 
 function getWeather(queryLocation) {
